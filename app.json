@@ -7,23 +7,23 @@
   "env": {
     "PROTOCOL": {
       "description": "要部署的协议vmess或vless,请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
       "description": "UUID充当配置的路径和账号密码,请妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-      "value": "",
+      "value": "3ec869c9-dc1e-41c4-ba20-f69f1f994df8",
       "required": false
     },
     "vindex": {
       "description": "伪装网站，填写一个真实网站地址",
-      "value": "",
+      "value": "https://incels.is",
       "required": false
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/ledsafdssg/sdvgrg",
+  "repository": "https://github.com/ledsafdssg/sdvgrg",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
